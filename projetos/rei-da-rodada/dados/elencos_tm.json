@@ -1,0 +1,3519 @@
+{
+"1023": {
+"nome": "SE Palmeiras",
+"slug": "se-palmeiras-sao-paulo",
+"jogadores": [
+{
+"tm": 641458,
+"nome": "Carlos Miguel",
+"posTM": "Goleiro",
+"idade": 28,
+"valor": 9.0
+},
+{
+"tm": 53015,
+"nome": "Marcelo Lomba",
+"posTM": "Goleiro",
+"idade": 39,
+"valor": 0.075
+},
+{
+"tm": 323929,
+"nome": "Bruno Bertinato",
+"posTM": "Goleiro",
+"idade": 28,
+"valor": null
+},
+{
+"tm": 458710,
+"nome": "Murilo",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 5.0
+},
+{
+"tm": 379752,
+"nome": "Alexander Barboza",
+"posTM": "Zagueiro",
+"idade": 31,
+"valor": 4.5
+},
+{
+"tm": 563692,
+"nome": "Bruno Fuchs",
+"posTM": "Zagueiro",
+"idade": 27,
+"valor": 4.0
+},
+{
+"tm": 1253807,
+"nome": "Luis Benedetti",
+"posTM": "Zagueiro",
+"idade": 20,
+"valor": 4.0
+},
+{
+"tm": 1115722,
+"nome": "Arthur Gabriel",
+"posTM": "Lateral Esq.",
+"idade": 21,
+"valor": 4.0
+},
+{
+"tm": 849582,
+"nome": "Agustín Giay",
+"posTM": "Lateral Dir.",
+"idade": 22,
+"valor": 11.0
+},
+{
+"tm": 653348,
+"nome": "Khellven",
+"posTM": "Lateral Dir.",
+"idade": 25,
+"valor": 6.0
+},
+{
+"tm": 364972,
+"nome": "Marlon Freitas",
+"posTM": "Volante",
+"idade": 31,
+"valor": 6.0
+},
+{
+"tm": 707447,
+"nome": "Emiliano Martínez",
+"posTM": "Volante",
+"idade": 27,
+"valor": 5.0
+},
+{
+"tm": 1268048,
+"nome": "Luis Pacheco",
+"posTM": "Volante",
+"idade": 18,
+"valor": 1.5
+},
+{
+"tm": 270188,
+"nome": "Lucas Evangelista",
+"posTM": "Meia Central",
+"idade": 31,
+"valor": 4.0
+},
+{
+"tm": 1116605,
+"nome": "Larson",
+"posTM": "Meia Central",
+"idade": 21,
+"valor": 1.0
+},
+{
+"tm": 678439,
+"nome": "Mauricio",
+"posTM": "Meia Ofensivo",
+"idade": 25,
+"valor": 18.0
+},
+{
+"tm": 1180021,
+"nome": "Erick Belé",
+"posTM": "Meia Ofensivo",
+"idade": 19,
+"valor": 1.0
+},
+{
+"tm": 745191,
+"nome": "Ramón Sosa",
+"posTM": "Ponta-Esquerda",
+"idade": 27,
+"valor": 10.0
+},
+{
+"tm": 159372,
+"nome": "Felipe Anderson",
+"posTM": "Ponta-Esquerda",
+"idade": 33,
+"valor": 1.0
+},
+{
+"tm": 588989,
+"nome": "Jhon Arias",
+"posTM": "Ponta-Direita",
+"idade": 29,
+"valor": 15.0
+},
+{
+"tm": 844797,
+"nome": "José Manuel López",
+"posTM": "Centroavante",
+"idade": 25,
+"valor": 30.0
+}
+]
+},
+"614": {
+"nome": "CR Flamengo",
+"slug": "flamengo-rio-de-janeiro",
+"jogadores": [
+{
+"tm": 352324,
+"nome": "Agustín Rossi",
+"posTM": "Goleiro",
+"idade": 31,
+"valor": 10.0
+},
+{
+"tm": 610417,
+"nome": "Andrew",
+"posTM": "Goleiro",
+"idade": 25,
+"valor": 5.0
+},
+{
+"tm": 1082543,
+"nome": "Dyogo Alves",
+"posTM": "Goleiro",
+"idade": 22,
+"valor": 0.4
+},
+{
+"tm": 374136,
+"nome": "Léo Ortiz",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 12.0
+},
+{
+"tm": 288431,
+"nome": "Léo Pereira",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 12.0
+},
+{
+"tm": 428783,
+"nome": "Vitão",
+"posTM": "Zagueiro",
+"idade": 26,
+"valor": 10.0
+},
+{
+"tm": 1193868,
+"nome": "João Souza",
+"posTM": "Zagueiro",
+"idade": 19,
+"valor": 0.8
+},
+{
+"tm": 349585,
+"nome": "Ayrton Lucas",
+"posTM": "Lateral Esq.",
+"idade": 29,
+"valor": 4.0
+},
+{
+"tm": 79960,
+"nome": "Alex Sandro",
+"posTM": "Lateral Esq.",
+"idade": 35,
+"valor": 1.0
+},
+{
+"tm": 476344,
+"nome": "Emerson Royal",
+"posTM": "Lateral Dir.",
+"idade": 27,
+"valor": 5.0
+},
+{
+"tm": 188862,
+"nome": "Guillermo Varela",
+"posTM": "Lateral Dir.",
+"idade": 33,
+"valor": 1.0
+},
+{
+"tm": 215616,
+"nome": "Erick Pulgar",
+"posTM": "Volante",
+"idade": 32,
+"valor": 4.5
+},
+{
+"tm": 102017,
+"nome": "Jorginho",
+"posTM": "Volante",
+"idade": 34,
+"valor": 3.5
+},
+{
+"tm": 397458,
+"nome": "Nicolás de la Cruz",
+"posTM": "Meia Central",
+"idade": 29,
+"valor": 7.0
+},
+{
+"tm": 148928,
+"nome": "Saúl Ñíguez",
+"posTM": "Meia Central",
+"idade": 31,
+"valor": 1.0
+},
+{
+"tm": 444523,
+"nome": "Lucas Paquetá",
+"posTM": "Meia Ofensivo",
+"idade": 29,
+"valor": 27.0
+},
+{
+"tm": 354145,
+"nome": "Jorge Carrascal",
+"posTM": "Meia Ofensivo",
+"idade": 28,
+"valor": 15.0
+},
+{
+"tm": 248410,
+"nome": "Giorgian de Arrascaeta",
+"posTM": "Meia Ofensivo",
+"idade": 32,
+"valor": 14.0
+},
+{
+"tm": 694928,
+"nome": "Samuel Lino",
+"posTM": "Ponta-Esquerda",
+"idade": 26,
+"valor": 20.0
+},
+{
+"tm": 592735,
+"nome": "Gonzalo Plata",
+"posTM": "Ponta-Direita",
+"idade": 25,
+"valor": 9.0
+},
+{
+"tm": 435485,
+"nome": "Luiz Araújo",
+"posTM": "Ponta-Direita",
+"idade": 30,
+"valor": 7.0
+},
+{
+"tm": 974374,
+"nome": "Anthony Valencia",
+"posTM": "Ponta-Direita",
+"idade": 23,
+"valor": 1.8
+},
+{
+"tm": 432895,
+"nome": "Pedro",
+"posTM": "Centroavante",
+"idade": 29,
+"valor": 22.0
+},
+{
+"tm": 1324003,
+"nome": "Joaquín Freitas",
+"posTM": "Centroavante",
+"idade": 19,
+"valor": 2.0
+},
+{
+"tm": 353108,
+"nome": "Bruno Henrique",
+"posTM": "Centroavante",
+"idade": 35,
+"valor": 0.75
+}
+]
+},
+"609": {
+"nome": "Cruzeiro EC",
+"slug": "ec-cruzeiro-belo-horizonte",
+"jogadores": [
+{
+"tm": 997947,
+"nome": "Otávio",
+"posTM": "Goleiro",
+"idade": 20,
+"valor": 10.0
+},
+{
+"tm": 1022342,
+"nome": "Léo Aragão",
+"posTM": "Goleiro",
+"idade": 24,
+"valor": 0.8
+},
+{
+"tm": 50144,
+"nome": "Cássio",
+"posTM": "Goleiro",
+"idade": 39,
+"valor": 0.25
+},
+{
+"tm": 1083207,
+"nome": "Jonathan Jesus",
+"posTM": "Zagueiro",
+"idade": 22,
+"valor": 12.0
+},
+{
+"tm": 432773,
+"nome": "Fabrício Bruno",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 10.0
+},
+{
+"tm": 240913,
+"nome": "Lucas Villalba",
+"posTM": "Zagueiro",
+"idade": 32,
+"valor": 1.7
+},
+{
+"tm": 471639,
+"nome": "Gabriel Rojas",
+"posTM": "Lateral Esq.",
+"idade": 29,
+"valor": 4.0
+},
+{
+"tm": 439072,
+"nome": "Matías Viña",
+"posTM": "Lateral Esq.",
+"idade": 28,
+"valor": 2.5
+},
+{
+"tm": 1388409,
+"nome": "Kauã Moraes",
+"posTM": "Lateral Dir.",
+"idade": 20,
+"valor": 3.0
+},
+{
+"tm": 341710,
+"nome": "William",
+"posTM": "Lateral Dir.",
+"idade": 31,
+"valor": 2.5
+},
+{
+"tm": 47592,
+"nome": "Fagner",
+"posTM": "Lateral Dir.",
+"idade": 37,
+"valor": 0.2
+},
+{
+"tm": 1365897,
+"nome": "Zé Lucas",
+"posTM": "Volante",
+"idade": 18,
+"valor": 8.0
+},
+{
+"tm": 242201,
+"nome": "Lucas Romero",
+"posTM": "Volante",
+"idade": 32,
+"valor": 2.5
+},
+{
+"tm": 341705,
+"nome": "Gerson",
+"posTM": "Meia Central",
+"idade": 29,
+"valor": 18.0
+},
+{
+"tm": 552549,
+"nome": "Matheus Henrique",
+"posTM": "Meia Central",
+"idade": 28,
+"valor": 6.0
+},
+{
+"tm": 225984,
+"nome": "Matheus Pereira",
+"posTM": "Meia Ofensivo",
+"idade": 30,
+"valor": 14.0
+},
+{
+"tm": 1360820,
+"nome": "Felipe Morais",
+"posTM": "Meia Ofensivo",
+"idade": 18,
+"valor": 2.0
+},
+{
+"tm": 1007378,
+"nome": "Wesley",
+"posTM": "Ponta-Esquerda",
+"idade": 21,
+"valor": 4.0
+},
+{
+"tm": 1253814,
+"nome": "Kaique Kenji",
+"posTM": "Ponta-Esquerda",
+"idade": 20,
+"valor": 3.0
+},
+{
+"tm": 236202,
+"nome": "Wanderson",
+"posTM": "Ponta-Esquerda",
+"idade": 32,
+"valor": 3.0
+},
+{
+"tm": 406766,
+"nome": "Bruno Rodrigues",
+"posTM": "Ponta-Esquerda",
+"idade": 29,
+"valor": 1.2
+},
+{
+"tm": 1074584,
+"nome": "Keny Arroyo",
+"posTM": "Ponta-Direita",
+"idade": 20,
+"valor": 12.0
+},
+{
+"tm": 668268,
+"nome": "Marquinhos",
+"posTM": "Ponta-Direita",
+"idade": 23,
+"valor": 2.5
+},
+{
+"tm": 936536,
+"nome": "João Costa",
+"posTM": "Ponta-Direita",
+"idade": 21,
+"valor": 2.5
+},
+{
+"tm": 620477,
+"nome": "Kaio Jorge",
+"posTM": "Centroavante",
+"idade": 24,
+"valor": 25.0
+},
+{
+"tm": 856143,
+"nome": "Luciano Rodríguez",
+"posTM": "Centroavante",
+"idade": 23,
+"valor": 9.0
+},
+{
+"tm": 1182665,
+"nome": "Néiser Villarreal",
+"posTM": "Centroavante",
+"idade": 21,
+"valor": 4.0
+}
+]
+},
+"199": {
+"nome": "SC Corinthians",
+"slug": "corinthians-sao-paulo",
+"jogadores": [
+{
+"tm": 574901,
+"nome": "Hugo Souza",
+"posTM": "Goleiro",
+"idade": 27,
+"valor": 12.0
+},
+{
+"tm": 1005653,
+"nome": "Kauê",
+"posTM": "Goleiro",
+"idade": 22,
+"valor": 1.0
+},
+{
+"tm": 1005656,
+"nome": "Felipe Longo",
+"posTM": "Goleiro",
+"idade": 21,
+"valor": 0.5
+},
+{
+"tm": 1005650,
+"nome": "João Pedro Tchoca",
+"posTM": "Zagueiro",
+"idade": 22,
+"valor": 4.0
+},
+{
+"tm": 1497709,
+"nome": "Iago Machado",
+"posTM": "Zagueiro",
+"idade": 17,
+"valor": 3.0
+},
+{
+"tm": 175792,
+"nome": "André Ramalho",
+"posTM": "Zagueiro",
+"idade": 34,
+"valor": 0.6
+},
+{
+"tm": 743831,
+"nome": "Renato Santos",
+"posTM": "Zagueiro",
+"idade": 22,
+"valor": null
+},
+{
+"tm": 670021,
+"nome": "Matheus Bidu",
+"posTM": "Lateral Esq.",
+"idade": 27,
+"valor": 8.0
+},
+{
+"tm": 730708,
+"nome": "Hugo",
+"posTM": "Lateral Esq.",
+"idade": 29,
+"valor": 0.7
+},
+{
+"tm": 268506,
+"nome": "Fabrizio Angileri",
+"posTM": "Lateral Esq.",
+"idade": 32,
+"valor": 0.4
+},
+{
+"tm": 594226,
+"nome": "Matheuzinho",
+"posTM": "Lateral Dir.",
+"idade": 26,
+"valor": 10.0
+},
+{
+"tm": 657743,
+"nome": "Pedro Milans",
+"posTM": "Lateral Dir.",
+"idade": 24,
+"valor": 1.5
+},
+{
+"tm": 838387,
+"nome": "Léo Mana",
+"posTM": "Lateral Dir.",
+"idade": 22,
+"valor": 0.5
+},
+{
+"tm": 385271,
+"nome": "Allan",
+"posTM": "Volante",
+"idade": 29,
+"valor": 2.0
+},
+{
+"tm": 486078,
+"nome": "Charles",
+"posTM": "Volante",
+"idade": 30,
+"valor": 0.75
+},
+{
+"tm": 1029227,
+"nome": "Breno Bidon",
+"posTM": "Meia Central",
+"idade": 21,
+"valor": 25.0
+},
+{
+"tm": 1221818,
+"nome": "André",
+"posTM": "Meia Central",
+"idade": 20,
+"valor": 16.0
+},
+{
+"tm": 323934,
+"nome": "Matheus Pereira",
+"posTM": "Meia Central",
+"idade": 28,
+"valor": 1.5
+},
+{
+"tm": 135057,
+"nome": "André Carrillo",
+"posTM": "Meia Central",
+"idade": 35,
+"valor": 0.8
+},
+{
+"tm": 1004739,
+"nome": "Bahia",
+"posTM": "Meia Central",
+"idade": 20,
+"valor": null
+},
+{
+"tm": 565009,
+"nome": "Rodrigo Garro",
+"posTM": "Meia Ofensivo",
+"idade": 28,
+"valor": 12.0
+},
+{
+"tm": 141660,
+"nome": "Jesse Lingard",
+"posTM": "Meia Ofensivo",
+"idade": 33,
+"valor": 1.5
+},
+{
+"tm": 766258,
+"nome": "Kaio César",
+"posTM": "Ponta-Direita",
+"idade": 22,
+"valor": 5.0
+},
+{
+"tm": 1257132,
+"nome": "Dieguinho",
+"posTM": "Ponta-Direita",
+"idade": 19,
+"valor": 5.0
+},
+{
+"tm": 489893,
+"nome": "Yuri Alberto",
+"posTM": "Centroavante",
+"idade": 25,
+"valor": 23.0
+},
+{
+"tm": 1257133,
+"nome": "Gui Negão",
+"posTM": "Centroavante",
+"idade": 19,
+"valor": 6.0
+},
+{
+"tm": 547443,
+"nome": "Pedro Raul",
+"posTM": "Centroavante",
+"idade": 29,
+"valor": 1.5
+}
+]
+},
+"978": {
+"nome": "CR Vasco da Gama",
+"slug": "vasco-da-gama-rio-de-janeiro",
+"jogadores": [
+{
+"tm": 288415,
+"nome": "Léo Jardim",
+"posTM": "Goleiro",
+"idade": 31,
+"valor": 7.0
+},
+{
+"tm": 438682,
+"nome": "Daniel Fuzato",
+"posTM": "Goleiro",
+"idade": 29,
+"valor": 0.9
+},
+{
+"tm": 1083887,
+"nome": "Pablo",
+"posTM": "Goleiro",
+"idade": 23,
+"valor": 0.05
+},
+{
+"tm": 958598,
+"nome": "Robert Renan",
+"posTM": "Zagueiro",
+"idade": 23,
+"valor": 12.0
+},
+{
+"tm": 742095,
+"nome": "Gabriel Pereira",
+"posTM": "Zagueiro",
+"idade": 26,
+"valor": 6.0
+},
+{
+"tm": 809716,
+"nome": "Lucas Freitas",
+"posTM": "Zagueiro",
+"idade": 25,
+"valor": 4.0
+},
+{
+"tm": 989455,
+"nome": "Alan Saldivia",
+"posTM": "Zagueiro",
+"idade": 24,
+"valor": 1.2
+},
+{
+"tm": 1221660,
+"nome": "Walace Falcão",
+"posTM": "Zagueiro",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 891353,
+"nome": "Cuiabano",
+"posTM": "Lateral Esq.",
+"idade": 23,
+"valor": 12.0
+},
+{
+"tm": 670201,
+"nome": "Lucas Piton",
+"posTM": "Lateral Esq.",
+"idade": 26,
+"valor": 6.0
+},
+{
+"tm": 643119,
+"nome": "Riquelme",
+"posTM": "Lateral Esq.",
+"idade": 24,
+"valor": 0.7
+},
+{
+"tm": 1082692,
+"nome": "Paulinho",
+"posTM": "Lateral Esq.",
+"idade": 22,
+"valor": 0.6
+},
+{
+"tm": 412594,
+"nome": "Paulo Henrique",
+"posTM": "Lateral Dir.",
+"idade": 30,
+"valor": 6.0
+},
+{
+"tm": 430339,
+"nome": "José Luis Rodríguez",
+"posTM": "Lateral Dir.",
+"idade": 29,
+"valor": 2.0
+},
+{
+"tm": 1355262,
+"nome": "João Mutano",
+"posTM": "Lateral Dir.",
+"idade": 21,
+"valor": 0.5
+},
+{
+"tm": 576026,
+"nome": "Santiago Sosa",
+"posTM": "Volante",
+"idade": 27,
+"valor": 8.0
+},
+{
+"tm": 239294,
+"nome": "Jair",
+"posTM": "Volante",
+"idade": 32,
+"valor": 0.6
+},
+{
+"tm": 1159259,
+"nome": "Euder",
+"posTM": "Volante",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 1221773,
+"nome": "Ramon Rique",
+"posTM": "Meia Central",
+"idade": 19,
+"valor": 5.0
+},
+{
+"tm": 364261,
+"nome": "Tchê Tchê",
+"posTM": "Meia Central",
+"idade": 34,
+"valor": 0.8
+},
+{
+"tm": 991134,
+"nome": "Alan Lescano",
+"posTM": "Meia Ofensivo",
+"idade": 24,
+"valor": 7.5
+},
+{
+"tm": 974652,
+"nome": "Johan Rojas",
+"posTM": "Meia Ofensivo",
+"idade": 24,
+"valor": 3.8
+},
+{
+"tm": 1083969,
+"nome": "Guilherme Estrella",
+"posTM": "Meia Ofensivo",
+"idade": 21,
+"valor": 1.0
+},
+{
+"tm": 957461,
+"nome": "Andrés Gómez",
+"posTM": "Ponta-Esquerda",
+"idade": 24,
+"valor": 15.0
+},
+{
+"tm": 373189,
+"nome": "David",
+"posTM": "Ponta-Esquerda",
+"idade": 31,
+"valor": 1.5
+},
+{
+"tm": 461937,
+"nome": "Nuno Moreira",
+"posTM": "Ponta-Direita",
+"idade": 27,
+"valor": 7.0
+},
+{
+"tm": 663319,
+"nome": "Marino Hinestroza",
+"posTM": "Ponta-Direita",
+"idade": 24,
+"valor": 4.0
+},
+{
+"tm": 868891,
+"nome": "Adson",
+"posTM": "Ponta-Direita",
+"idade": 26,
+"valor": 2.5
+},
+{
+"tm": 696693,
+"nome": "Loide Augusto",
+"posTM": "Ponta-Direita",
+"idade": 26,
+"valor": 1.2
+},
+{
+"tm": 491705,
+"nome": "Facundo Colidio",
+"posTM": "Centroavante",
+"idade": 26,
+"valor": 6.0
+},
+{
+"tm": 598629,
+"nome": "Bruno Duarte",
+"posTM": "Centroavante",
+"idade": 30,
+"valor": 4.0
+},
+{
+"tm": 412366,
+"nome": "Brenner",
+"posTM": "Centroavante",
+"idade": 26,
+"valor": 4.0
+},
+{
+"tm": 504882,
+"nome": "Claudio Spinelli",
+"posTM": "Centroavante",
+"idade": 29,
+"valor": 3.0
+}
+]
+},
+"537": {
+"nome": "Botafogo FR",
+"slug": "botafogo-rio-de-janeiro",
+"jogadores": [
+{
+"tm": 401535,
+"nome": "Gabriel Batista",
+"posTM": "Goleiro",
+"idade": 28,
+"valor": 4.0
+},
+{
+"tm": 477460,
+"nome": "Warleson",
+"posTM": "Goleiro",
+"idade": 30,
+"valor": 2.0
+},
+{
+"tm": 1074501,
+"nome": "Cristhian Loor",
+"posTM": "Goleiro",
+"idade": 20,
+"valor": 0.35
+},
+{
+"tm": 466336,
+"nome": "Nahuel Ferraresi",
+"posTM": "Zagueiro",
+"idade": 27,
+"valor": 5.0
+},
+{
+"tm": 1127043,
+"nome": "Gabriel Justino",
+"posTM": "Zagueiro",
+"idade": 20,
+"valor": 1.5
+},
+{
+"tm": 1092623,
+"nome": "Anthony",
+"posTM": "Zagueiro",
+"idade": 21,
+"valor": 0.3
+},
+{
+"tm": 996691,
+"nome": "Kawan",
+"posTM": "Zagueiro",
+"idade": 23,
+"valor": null
+},
+{
+"tm": 520492,
+"nome": "Paulinho",
+"posTM": "Lateral Esq.",
+"idade": 31,
+"valor": 0.4
+},
+{
+"tm": 137745,
+"nome": "Marçal",
+"posTM": "Lateral Esq.",
+"idade": 37,
+"valor": 0.2
+},
+{
+"tm": 1112486,
+"nome": "Jhoan Hernández",
+"posTM": "Lateral Esq.",
+"idade": 20,
+"valor": 0.15
+},
+{
+"tm": 468249,
+"nome": "Vitinho",
+"posTM": "Lateral Dir.",
+"idade": 27,
+"valor": 9.0
+},
+{
+"tm": 856047,
+"nome": "Mateo Ponte",
+"posTM": "Lateral Dir.",
+"idade": 23,
+"valor": 3.0
+},
+{
+"tm": 1095624,
+"nome": "Kadu Santos",
+"posTM": "Lateral Dir.",
+"idade": 21,
+"valor": 0.35
+},
+{
+"tm": 1364573,
+"nome": "Huguinho",
+"posTM": "Volante",
+"idade": 19,
+"valor": 3.0
+},
+{
+"tm": 666541,
+"nome": "Domingos Andrade",
+"posTM": "Volante",
+"idade": 23,
+"valor": 1.5
+},
+{
+"tm": 126422,
+"nome": "Allan",
+"posTM": "Volante",
+"idade": 35,
+"valor": 1.0
+},
+{
+"tm": 1279908,
+"nome": "Wallace Davi",
+"posTM": "Volante",
+"idade": 19,
+"valor": 1.0
+},
+{
+"tm": 808509,
+"nome": "Danilo",
+"posTM": "Meia Central",
+"idade": 25,
+"valor": 32.0
+},
+{
+"tm": 661133,
+"nome": "Cristian Medina",
+"posTM": "Meia Central",
+"idade": 24,
+"valor": 8.0
+},
+{
+"tm": 169052,
+"nome": "Edenilson",
+"posTM": "Meia Central",
+"idade": 36,
+"valor": 0.25
+},
+{
+"tm": 1228194,
+"nome": "Álvaro Montoro",
+"posTM": "Ponta-Esquerda",
+"idade": 19,
+"valor": 14.0
+},
+{
+"tm": 668228,
+"nome": "Matheus Martins",
+"posTM": "Ponta-Esquerda",
+"idade": 23,
+"valor": 6.0
+},
+{
+"tm": 592347,
+"nome": "Júnior Santos",
+"posTM": "Ponta-Direita",
+"idade": 32,
+"valor": 3.0
+},
+{
+"tm": 217111,
+"nome": "Hakim Ziyech",
+"posTM": "Ponta-Direita",
+"idade": 33,
+"valor": 2.2
+},
+{
+"tm": 874844,
+"nome": "Lucas Villalba",
+"posTM": "Ponta-Direita",
+"idade": 25,
+"valor": 1.5
+},
+{
+"tm": 1096605,
+"nome": "Kauan Toledo",
+"posTM": "Ponta-Direita",
+"idade": 20,
+"valor": 1.0
+},
+{
+"tm": 390638,
+"nome": "Arthur Cabral",
+"posTM": "Centroavante",
+"idade": 28,
+"valor": 9.0
+},
+{
+"tm": 1464878,
+"nome": "Kadir Barría",
+"posTM": "Centroavante",
+"idade": 19,
+"valor": 2.0
+},
+{
+"tm": 1568045,
+"nome": "Lucas Emanuel",
+"posTM": "Centroavante",
+"idade": 17,
+"valor": 2.0
+},
+{
+"tm": 519731,
+"nome": "Danilo",
+"posTM": "Centroavante",
+"idade": 27,
+"valor": 1.5
+},
+{
+"tm": 103381,
+"nome": "Tiquinho Soares",
+"posTM": "Centroavante",
+"idade": 35,
+"valor": 0.8
+}
+]
+},
+"2462": {
+"nome": "Fluminense FC",
+"slug": "fluminense-rio-de-janeiro",
+"jogadores": [
+{
+"tm": 590039,
+"nome": "Vitor Eudes",
+"posTM": "Goleiro",
+"idade": 28,
+"valor": 0.4
+},
+{
+"tm": 662334,
+"nome": "Marcelo Pitaluga",
+"posTM": "Goleiro",
+"idade": 23,
+"valor": 0.2
+},
+{
+"tm": 22415,
+"nome": "Fábio",
+"posTM": "Goleiro",
+"idade": 46,
+"valor": 0.075
+},
+{
+"tm": 628750,
+"nome": "Juan Pablo Freytes",
+"posTM": "Zagueiro",
+"idade": 26,
+"valor": 5.0
+},
+{
+"tm": 624291,
+"nome": "Ignácio",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 3.5
+},
+{
+"tm": 1141364,
+"nome": "Jemmes",
+"posTM": "Zagueiro",
+"idade": 26,
+"valor": 3.0
+},
+{
+"tm": 341701,
+"nome": "Igor Rabello",
+"posTM": "Zagueiro",
+"idade": 31,
+"valor": 1.4
+},
+{
+"tm": 29241,
+"nome": "Thiago Silva",
+"posTM": "Zagueiro",
+"idade": 42,
+"valor": 0.5
+},
+{
+"tm": 346766,
+"nome": "Guilherme Arana",
+"posTM": "Lateral Esq.",
+"idade": 29,
+"valor": 6.0
+},
+{
+"tm": 212209,
+"nome": "Renê",
+"posTM": "Lateral Esq.",
+"idade": 34,
+"valor": 0.4
+},
+{
+"tm": 1219751,
+"nome": "Léo Jance",
+"posTM": "Lateral Esq.",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 592344,
+"nome": "Guga",
+"posTM": "Lateral Dir.",
+"idade": 28,
+"valor": 2.0
+},
+{
+"tm": 1119008,
+"nome": "Julio Fidelis",
+"posTM": "Lateral Dir.",
+"idade": 19,
+"valor": 0.5
+},
+{
+"tm": 992534,
+"nome": "Jhonny",
+"posTM": "Lateral Dir.",
+"idade": 24,
+"valor": 0.35
+},
+{
+"tm": 312314,
+"nome": "Otávio",
+"posTM": "Volante",
+"idade": 32,
+"valor": 1.0
+},
+{
+"tm": 1084666,
+"nome": "Luis Fernando",
+"posTM": "Volante",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 982617,
+"nome": "Hércules",
+"posTM": "Meia Central",
+"idade": 26,
+"valor": 15.0
+},
+{
+"tm": 546172,
+"nome": "Nonato",
+"posTM": "Meia Central",
+"idade": 28,
+"valor": 2.0
+},
+{
+"tm": 315169,
+"nome": "Luciano Acosta",
+"posTM": "Meia Ofensivo",
+"idade": 32,
+"valor": 5.0
+},
+{
+"tm": 67920,
+"nome": "Ganso",
+"posTM": "Meia Ofensivo",
+"idade": 37,
+"valor": 0.3
+},
+{
+"tm": 984365,
+"nome": "Yago Ferreira",
+"posTM": "Meia Ofensivo",
+"idade": 25,
+"valor": null
+},
+{
+"tm": 312294,
+"nome": "Yeferson Soteldo",
+"posTM": "Ponta-Esquerda",
+"idade": 29,
+"valor": 3.0
+},
+{
+"tm": 1339559,
+"nome": "Wesley Natã",
+"posTM": "Ponta-Esquerda",
+"idade": 18,
+"valor": 1.0
+},
+{
+"tm": 457533,
+"nome": "Agustín Canobbio",
+"posTM": "Ponta-Direita",
+"idade": 28,
+"valor": 9.0
+},
+{
+"tm": 745927,
+"nome": "Kevin Serna",
+"posTM": "Ponta-Direita",
+"idade": 28,
+"valor": 5.0
+},
+{
+"tm": 984416,
+"nome": "Rodrigo Castillo",
+"posTM": "Centroavante",
+"idade": 27,
+"valor": 6.0
+},
+{
+"tm": 80562,
+"nome": "Hulk",
+"posTM": "Centroavante",
+"idade": 40,
+"valor": 1.0
+},
+{
+"tm": 54590,
+"nome": "Germán Cano",
+"posTM": "Centroavante",
+"idade": 38,
+"valor": 0.5
+}
+]
+},
+"221": {
+"nome": "Santos FC",
+"slug": "fc-santos",
+"jogadores": [
+{
+"tm": 275412,
+"nome": "João Paulo",
+"posTM": "Goleiro",
+"idade": 31,
+"valor": 2.0
+},
+{
+"tm": 907359,
+"nome": "Diógenes",
+"posTM": "Goleiro",
+"idade": 25,
+"valor": 0.2
+},
+{
+"tm": 1116832,
+"nome": "João Fernandes",
+"posTM": "Goleiro",
+"idade": 22,
+"valor": null
+},
+{
+"tm": 1089956,
+"nome": "Rodrigo Falcão",
+"posTM": "Goleiro",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 1256755,
+"nome": "João Ananias",
+"posTM": "Zagueiro",
+"idade": 19,
+"valor": 5.0
+},
+{
+"tm": 347913,
+"nome": "Luan Peres",
+"posTM": "Zagueiro",
+"idade": 32,
+"valor": 0.7
+},
+{
+"tm": 1117807,
+"nome": "João Alencar",
+"posTM": "Zagueiro",
+"idade": 19,
+"valor": null
+},
+{
+"tm": 608216,
+"nome": "Gabriel Menino",
+"posTM": "Lateral Dir.",
+"idade": 26,
+"valor": 7.0
+},
+{
+"tm": 552240,
+"nome": "Igor Vinícius",
+"posTM": "Lateral Dir.",
+"idade": 29,
+"valor": 2.0
+},
+{
+"tm": 185966,
+"nome": "Rodinei",
+"posTM": "Lateral Dir.",
+"idade": 34,
+"valor": 0.8
+},
+{
+"tm": 1101124,
+"nome": "Gustavinho",
+"posTM": "Volante",
+"idade": 21,
+"valor": 2.0
+},
+{
+"tm": 563812,
+"nome": "Christian Oliva",
+"posTM": "Volante",
+"idade": 30,
+"valor": 1.4
+},
+{
+"tm": 198859,
+"nome": "João Schmidt",
+"posTM": "Volante",
+"idade": 33,
+"valor": 0.7
+},
+{
+"tm": 1089958,
+"nome": "Gabriel Bontempo",
+"posTM": "Meia Central",
+"idade": 21,
+"valor": 12.0
+},
+{
+"tm": 1063811,
+"nome": "Miguelito",
+"posTM": "Meia Ofensivo",
+"idade": 22,
+"valor": 5.0
+},
+{
+"tm": 80444,
+"nome": "Philippe Coutinho",
+"posTM": "Meia Ofensivo",
+"idade": 34,
+"valor": 2.5
+},
+{
+"tm": 387611,
+"nome": "Lima",
+"posTM": "Meia Ofensivo",
+"idade": 30,
+"valor": 2.0
+},
+{
+"tm": 392487,
+"nome": "Thaciano",
+"posTM": "Meia Ofensivo",
+"idade": 31,
+"valor": 1.0
+},
+{
+"tm": 1355386,
+"nome": "Nadson",
+"posTM": "Meia Ofensivo",
+"idade": 17,
+"valor": 1.0
+},
+{
+"tm": 1005585,
+"nome": "Pepê Fermino",
+"posTM": "Meia Ofensivo",
+"idade": 19,
+"valor": null
+},
+{
+"tm": 613873,
+"nome": "Álvaro Barreal",
+"posTM": "Ponta-Esquerda",
+"idade": 26,
+"valor": 7.0
+},
+{
+"tm": 321239,
+"nome": "Everton",
+"posTM": "Ponta-Esquerda",
+"idade": 30,
+"valor": 6.0
+},
+{
+"tm": 788361,
+"nome": "Moisés",
+"posTM": "Ponta-Esquerda",
+"idade": 30,
+"valor": 2.0
+},
+{
+"tm": 891672,
+"nome": "Gustavo Caballero",
+"posTM": "Ponta-Esquerda",
+"idade": 25,
+"valor": 1.0
+},
+{
+"tm": 1220141,
+"nome": "Mateus Xavier",
+"posTM": "Ponta-Esquerda",
+"idade": 19,
+"valor": 0.4
+},
+{
+"tm": 491704,
+"nome": "Benjamín Rollheiser",
+"posTM": "Ponta-Direita",
+"idade": 26,
+"valor": 11.0
+},
+{
+"tm": 816149,
+"nome": "Andrey Quintino",
+"posTM": "Ponta-Direita",
+"idade": 24,
+"valor": null
+},
+{
+"tm": 1088816,
+"nome": "Enzo Boer",
+"posTM": "Ponta-Direita",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 244275,
+"nome": "Gabriel Barbosa",
+"posTM": "Centroavante",
+"idade": 30,
+"valor": 4.0
+},
+{
+"tm": 371009,
+"nome": "Rony",
+"posTM": "Centroavante",
+"idade": 31,
+"valor": 3.0
+}
+]
+},
+"330": {
+"nome": "Atlético Mineiro",
+"slug": "clube-atletico-mineiro",
+"jogadores": [
+{
+"tm": 978121,
+"nome": "Gabriel Delfim",
+"posTM": "Goleiro",
+"idade": 24,
+"valor": 3.0
+},
+{
+"tm": 1193865,
+"nome": "Pedro Cobra",
+"posTM": "Goleiro",
+"idade": 20,
+"valor": 0.6
+},
+{
+"tm": 1124553,
+"nome": "Robert",
+"posTM": "Goleiro",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 379807,
+"nome": "Lyanco",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 4.5
+},
+{
+"tm": 312678,
+"nome": "Léo Duarte",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 2.0
+},
+{
+"tm": 1355486,
+"nome": "Vitão",
+"posTM": "Zagueiro",
+"idade": 18,
+"valor": 1.5
+},
+{
+"tm": 149752,
+"nome": "Vitor Hugo",
+"posTM": "Zagueiro",
+"idade": 35,
+"valor": 0.5
+},
+{
+"tm": 476352,
+"nome": "Renan Lodi",
+"posTM": "Lateral Esq.",
+"idade": 28,
+"valor": 11.0
+},
+{
+"tm": 1355484,
+"nome": "Kauã Pascini",
+"posTM": "Lateral Esq.",
+"idade": 18,
+"valor": 2.5
+},
+{
+"tm": 740295,
+"nome": "Natanael",
+"posTM": "Lateral Dir.",
+"idade": 24,
+"valor": 4.5
+},
+{
+"tm": 450241,
+"nome": "Angelo Preciado",
+"posTM": "Lateral Dir.",
+"idade": 28,
+"valor": 3.5
+},
+{
+"tm": 997714,
+"nome": "Alexsander",
+"posTM": "Volante",
+"idade": 23,
+"valor": 5.0
+},
+{
+"tm": 857948,
+"nome": "Kevin Castaño",
+"posTM": "Volante",
+"idade": 26,
+"valor": 5.0
+},
+{
+"tm": 1152154,
+"nome": "Tomás Pérez",
+"posTM": "Volante",
+"idade": 21,
+"valor": 3.0
+},
+{
+"tm": 749559,
+"nome": "Victor Hugo",
+"posTM": "Meia Central",
+"idade": 22,
+"valor": 8.0
+},
+{
+"tm": 1410674,
+"nome": "Mamady Cissé",
+"posTM": "Meia Central",
+"idade": 19,
+"valor": 2.5
+},
+{
+"tm": 421935,
+"nome": "Maycon",
+"posTM": "Meia Central",
+"idade": 29,
+"valor": 2.0
+},
+{
+"tm": 1339551,
+"nome": "Índio",
+"posTM": "Meia Central",
+"idade": 18,
+"valor": null
+},
+{
+"tm": 627226,
+"nome": "Reinier",
+"posTM": "Meia Ofensivo",
+"idade": 24,
+"valor": 4.0
+},
+{
+"tm": 553459,
+"nome": "Igor Gomes",
+"posTM": "Meia Ofensivo",
+"idade": 27,
+"valor": 2.5
+},
+{
+"tm": 503052,
+"nome": "Tomás Cuello",
+"posTM": "Ponta-Esquerda",
+"idade": 26,
+"valor": 8.0
+},
+{
+"tm": 114937,
+"nome": "Dudu",
+"posTM": "Ponta-Esquerda",
+"idade": 34,
+"valor": 0.8
+},
+{
+"tm": 175169,
+"nome": "Bernard",
+"posTM": "Ponta-Esquerda",
+"idade": 34,
+"valor": 0.6
+},
+{
+"tm": 897051,
+"nome": "Alan Minda",
+"posTM": "Ponta-Direita",
+"idade": 23,
+"valor": 6.0
+},
+{
+"tm": 1365061,
+"nome": "Cauã Soares",
+"posTM": "Centroavante",
+"idade": 18,
+"valor": 1.5
+}
+]
+},
+"679": {
+"nome": "Athletico Paranaense",
+"slug": "club-athletico-paranaense",
+"jogadores": [
+{
+"tm": 743586,
+"nome": "Mycael",
+"posTM": "Goleiro",
+"idade": 22,
+"valor": 5.0
+},
+{
+"tm": 1122597,
+"nome": "Matheus Soares",
+"posTM": "Goleiro",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 649184,
+"nome": "Carlos Terán",
+"posTM": "Zagueiro",
+"idade": 26,
+"valor": 4.0
+},
+{
+"tm": 570521,
+"nome": "Juan Felipe Aguirre",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 2.0
+},
+{
+"tm": 403296,
+"nome": "Léo",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 1.2
+},
+{
+"tm": 829969,
+"nome": "Lucas Esquivel",
+"posTM": "Lateral Esq.",
+"idade": 25,
+"valor": 8.0
+},
+{
+"tm": 1052819,
+"nome": "Léo Derik",
+"posTM": "Lateral Esq.",
+"idade": 21,
+"valor": 3.0
+},
+{
+"tm": 1093864,
+"nome": "Gilberto Junior",
+"posTM": "Lateral Dir.",
+"idade": 21,
+"valor": 2.5
+},
+{
+"tm": 231614,
+"nome": "Gilberto",
+"posTM": "Lateral Dir.",
+"idade": 33,
+"valor": 2.2
+},
+{
+"tm": 1221388,
+"nome": "Diogo Riquelme",
+"posTM": "Volante",
+"idade": 21,
+"valor": 1.0
+},
+{
+"tm": 10471,
+"nome": "Luiz Gustavo",
+"posTM": "Volante",
+"idade": 39,
+"valor": 0.2
+},
+{
+"tm": 1004738,
+"nome": "João Cruz",
+"posTM": "Meia Central",
+"idade": 20,
+"valor": 8.0
+},
+{
+"tm": 585747,
+"nome": "Juan Portilla",
+"posTM": "Meia Central",
+"idade": 28,
+"valor": 5.0
+},
+{
+"tm": 1115489,
+"nome": "Felipinho",
+"posTM": "Meia Central",
+"idade": 25,
+"valor": 1.0
+},
+{
+"tm": 205179,
+"nome": "Jádson",
+"posTM": "Meia Central",
+"idade": 33,
+"valor": 1.0
+},
+{
+"tm": 1004728,
+"nome": "Dudu",
+"posTM": "Meia Ofensivo",
+"idade": 20,
+"valor": 7.0
+},
+{
+"tm": 711600,
+"nome": "Bruno Zapelli",
+"posTM": "Meia Ofensivo",
+"idade": 24,
+"valor": 4.5
+},
+{
+"tm": 1094387,
+"nome": "Chiqueti",
+"posTM": "Meia Ofensivo",
+"idade": 21,
+"valor": 3.0
+},
+{
+"tm": 131101,
+"nome": "Stiven Mendoza",
+"posTM": "Ponta-Esquerda",
+"idade": 34,
+"valor": 0.6
+},
+{
+"tm": 1110658,
+"nome": "Leozinho",
+"posTM": "Ponta-Direita",
+"idade": 27,
+"valor": 3.0
+},
+{
+"tm": 580461,
+"nome": "Kevin Viveros",
+"posTM": "Centroavante",
+"idade": 26,
+"valor": 20.0
+},
+{
+"tm": 1071293,
+"nome": "Jorge Rivaldo",
+"posTM": "Centroavante",
+"idade": 23,
+"valor": 2.0
+},
+{
+"tm": 883623,
+"nome": "Renan Peixoto",
+"posTM": "Centroavante",
+"idade": 26,
+"valor": 1.5
+},
+{
+"tm": 869007,
+"nome": "Renan Viana",
+"posTM": "Centroavante",
+"idade": 23,
+"valor": 0.225
+}
+]
+},
+"8793": {
+"nome": "RB Bragantino",
+"slug": "red-bull-bragantino",
+"jogadores": [
+{
+"tm": 227671,
+"nome": "Tiago Volpi",
+"posTM": "Goleiro",
+"idade": 35,
+"valor": 0.9
+},
+{
+"tm": 1084069,
+"nome": "Gustavo Reis",
+"posTM": "Goleiro",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 880217,
+"nome": "Alix",
+"posTM": "Zagueiro",
+"idade": 26,
+"valor": 4.0
+},
+{
+"tm": 732899,
+"nome": "Guzmán Rodríguez",
+"posTM": "Zagueiro",
+"idade": 26,
+"valor": 3.5
+},
+{
+"tm": 564546,
+"nome": "Eduardo",
+"posTM": "Zagueiro",
+"idade": 28,
+"valor": 0.75
+},
+{
+"tm": 406676,
+"nome": "Juninho Capixaba",
+"posTM": "Lateral Esq.",
+"idade": 29,
+"valor": 8.0
+},
+{
+"tm": 816129,
+"nome": "Vanderlan",
+"posTM": "Lateral Esq.",
+"idade": 24,
+"valor": 3.0
+},
+{
+"tm": 1223728,
+"nome": "Cauê Nascimento",
+"posTM": "Lateral Esq.",
+"idade": 19,
+"valor": 0.5
+},
+{
+"tm": 400661,
+"nome": "Agustín Sant'Anna",
+"posTM": "Lateral Dir.",
+"idade": 29,
+"valor": 3.5
+},
+{
+"tm": 1311456,
+"nome": "Ryan Augusto",
+"posTM": "Lateral Dir.",
+"idade": 19,
+"valor": 1.0
+},
+{
+"tm": 627230,
+"nome": "Fabinho",
+"posTM": "Volante",
+"idade": 24,
+"valor": 5.0
+},
+{
+"tm": 351892,
+"nome": "Matheus Fernandes",
+"posTM": "Volante",
+"idade": 28,
+"valor": 1.0
+},
+{
+"tm": 213606,
+"nome": "Gabriel",
+"posTM": "Volante",
+"idade": 34,
+"valor": 0.9
+},
+{
+"tm": 881645,
+"nome": "Ignacio Sosa",
+"posTM": "Meia Central",
+"idade": 23,
+"valor": 5.0
+},
+{
+"tm": 668234,
+"nome": "Bruninho",
+"posTM": "Meia Ofensivo",
+"idade": 23,
+"valor": 1.0
+},
+{
+"tm": 1084073,
+"nome": "Marcelinho Braz",
+"posTM": "Meia Ofensivo",
+"idade": 22,
+"valor": 0.4
+},
+{
+"tm": 1082593,
+"nome": "Vinicinho",
+"posTM": "Ponta-Esquerda",
+"idade": 22,
+"valor": 3.5
+},
+{
+"tm": 816144,
+"nome": "Lucas Barbosa",
+"posTM": "Ponta-Direita",
+"idade": 25,
+"valor": 8.0
+},
+{
+"tm": 668953,
+"nome": "José Herrera",
+"posTM": "Ponta-Direita",
+"idade": 23,
+"valor": 2.5
+},
+{
+"tm": 675178,
+"nome": "Isidro Pitta",
+"posTM": "Centroavante",
+"idade": 27,
+"valor": 7.5
+},
+{
+"tm": 1082602,
+"nome": "Wallace Yan",
+"posTM": "Centroavante",
+"idade": 21,
+"valor": 4.0
+},
+{
+"tm": 550495,
+"nome": "Fernando",
+"posTM": "Centroavante",
+"idade": 27,
+"valor": 1.5
+},
+{
+"tm": 162883,
+"nome": "Eduardo Sasha",
+"posTM": "Centroavante",
+"idade": 34,
+"valor": 0.5
+}
+]
+},
+"585": {
+"nome": "São Paulo FC",
+"slug": "fc-sao-paulo",
+"jogadores": [
+{
+"tm": 378871,
+"nome": "Carlos Coronel",
+"posTM": "Goleiro",
+"idade": 29,
+"valor": 1.5
+},
+{
+"tm": 68097,
+"nome": "Rafael",
+"posTM": "Goleiro",
+"idade": 37,
+"valor": 0.3
+},
+{
+"tm": 894532,
+"nome": "Young",
+"posTM": "Goleiro",
+"idade": 24,
+"valor": 0.1
+},
+{
+"tm": 1202380,
+"nome": "João Pedro",
+"posTM": "Goleiro",
+"idade": 20,
+"valor": null
+},
+{
+"tm": 1202381,
+"nome": "Felipe Preis",
+"posTM": "Goleiro",
+"idade": 20,
+"valor": null
+},
+{
+"tm": 546033,
+"nome": "Sabino",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 1.0
+},
+{
+"tm": 980825,
+"nome": "Matheus Belém",
+"posTM": "Zagueiro",
+"idade": 23,
+"valor": 0.8
+},
+{
+"tm": 72441,
+"nome": "Rafael Tolói",
+"posTM": "Zagueiro",
+"idade": 36,
+"valor": 0.8
+},
+{
+"tm": 1221747,
+"nome": "Luis Osorio",
+"posTM": "Zagueiro",
+"idade": 20,
+"valor": 0.5
+},
+{
+"tm": 139867,
+"nome": "Robert Arboleda",
+"posTM": "Zagueiro",
+"idade": 35,
+"valor": 0.3
+},
+{
+"tm": 1096506,
+"nome": "Isac",
+"posTM": "Zagueiro",
+"idade": 20,
+"valor": null
+},
+{
+"tm": 520468,
+"nome": "Iago",
+"posTM": "Lateral Esq.",
+"idade": 29,
+"valor": 3.0
+},
+{
+"tm": 540458,
+"nome": "Enzo Díaz",
+"posTM": "Lateral Esq.",
+"idade": 30,
+"valor": 3.0
+},
+{
+"tm": 228433,
+"nome": "Wendell",
+"posTM": "Lateral Esq.",
+"idade": 33,
+"valor": 1.2
+},
+{
+"tm": 1193867,
+"nome": "Pedro Lima",
+"posTM": "Lateral Dir.",
+"idade": 20,
+"valor": 4.0
+},
+{
+"tm": 378189,
+"nome": "Lucas Ramon",
+"posTM": "Lateral Dir.",
+"idade": 32,
+"valor": 0.7
+},
+{
+"tm": 112988,
+"nome": "Cédric Soares",
+"posTM": "Lateral Dir.",
+"idade": 35,
+"valor": 0.5
+},
+{
+"tm": 1219848,
+"nome": "Igor Felisberto",
+"posTM": "Lateral Dir.",
+"idade": 19,
+"valor": null
+},
+{
+"tm": 892089,
+"nome": "Pablo Maia",
+"posTM": "Volante",
+"idade": 24,
+"valor": 4.0
+},
+{
+"tm": 811219,
+"nome": "Newton",
+"posTM": "Volante",
+"idade": 26,
+"valor": 3.0
+},
+{
+"tm": 468301,
+"nome": "Marcos Antônio",
+"posTM": "Meia Central",
+"idade": 26,
+"valor": 14.0
+},
+{
+"tm": 861852,
+"nome": "Damián Bobadilla",
+"posTM": "Meia Central",
+"idade": 25,
+"valor": 8.0
+},
+{
+"tm": 1383716,
+"nome": "Djhordney",
+"posTM": "Meia Central",
+"idade": 19,
+"valor": 2.0
+},
+{
+"tm": 162812,
+"nome": "Cauly",
+"posTM": "Meia Ofensivo",
+"idade": 31,
+"valor": 2.0
+},
+{
+"tm": 1362701,
+"nome": "Pedro Ferreira",
+"posTM": "Meia Ofensivo",
+"idade": 19,
+"valor": null
+},
+{
+"tm": 689017,
+"nome": "Ferreirinha",
+"posTM": "Ponta-Esquerda",
+"idade": 28,
+"valor": 3.0
+},
+{
+"tm": 1269378,
+"nome": "Lucca",
+"posTM": "Ponta-Esquerda",
+"idade": 19,
+"valor": 3.0
+},
+{
+"tm": 381724,
+"nome": "Victor Sá",
+"posTM": "Ponta-Esquerda",
+"idade": 32,
+"valor": 2.0
+},
+{
+"tm": 1355277,
+"nome": "Tetê",
+"posTM": "Ponta-Esquerda",
+"idade": 19,
+"valor": 1.0
+},
+{
+"tm": 77100,
+"nome": "Lucas Moura",
+"posTM": "Ponta-Direita",
+"idade": 34,
+"valor": 2.0
+},
+{
+"tm": 1202387,
+"nome": "Ryan Francisco",
+"posTM": "Centroavante",
+"idade": 19,
+"valor": 4.0
+},
+{
+"tm": 565232,
+"nome": "André Silva",
+"posTM": "Centroavante",
+"idade": 29,
+"valor": 2.5
+},
+{
+"tm": 223560,
+"nome": "Luciano",
+"posTM": "Centroavante",
+"idade": 33,
+"valor": 1.0
+},
+{
+"tm": 1095834,
+"nome": "Gustavo Santana",
+"posTM": "Centroavante",
+"idade": 21,
+"valor": 1.0
+}
+]
+},
+"210": {
+"nome": "Grêmio FBPA",
+"slug": "gremio-porto-alegre",
+"jogadores": [
+{
+"tm": 878037,
+"nome": "Gabriel Grando",
+"posTM": "Goleiro",
+"idade": 26,
+"valor": 1.5
+},
+{
+"tm": 69400,
+"nome": "Weverton",
+"posTM": "Goleiro",
+"idade": 38,
+"valor": 0.7
+},
+{
+"tm": 959088,
+"nome": "Thiago Beltrame",
+"posTM": "Goleiro",
+"idade": 23,
+"valor": null
+},
+{
+"tm": 1446971,
+"nome": "Gabriel Menegon",
+"posTM": "Goleiro",
+"idade": 18,
+"valor": null
+},
+{
+"tm": 874223,
+"nome": "Gustavo Martins",
+"posTM": "Zagueiro",
+"idade": 24,
+"valor": 5.0
+},
+{
+"tm": 671572,
+"nome": "Wagner Leonardo",
+"posTM": "Zagueiro",
+"idade": 27,
+"valor": 2.0
+},
+{
+"tm": 285548,
+"nome": "Fabián Balbuena",
+"posTM": "Zagueiro",
+"idade": 35,
+"valor": 0.7
+},
+{
+"tm": 1355268,
+"nome": "Luis Eduardo",
+"posTM": "Zagueiro",
+"idade": 18,
+"valor": 0.5
+},
+{
+"tm": 1219676,
+"nome": "Athos Thawan",
+"posTM": "Zagueiro",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 406675,
+"nome": "Marlon",
+"posTM": "Lateral Esq.",
+"idade": 29,
+"valor": 3.5
+},
+{
+"tm": 1253927,
+"nome": "Pedro Gabriel",
+"posTM": "Lateral Esq.",
+"idade": 19,
+"valor": 2.0
+},
+{
+"tm": 601011,
+"nome": "Caio Paulista",
+"posTM": "Lateral Esq.",
+"idade": 28,
+"valor": 1.5
+},
+{
+"tm": 1092620,
+"nome": "Diego Caito",
+"posTM": "Lateral Dir.",
+"idade": 22,
+"valor": 1.5
+},
+{
+"tm": 342024,
+"nome": "João Pedro",
+"posTM": "Lateral Dir.",
+"idade": 29,
+"valor": 1.0
+},
+{
+"tm": 75435,
+"nome": "Marcos Rocha",
+"posTM": "Lateral Dir.",
+"idade": 37,
+"valor": 0.15
+},
+{
+"tm": 723853,
+"nome": "Erick Noriega",
+"posTM": "Volante",
+"idade": 25,
+"valor": 6.0
+},
+{
+"tm": 436385,
+"nome": "Mathías Villasanti",
+"posTM": "Volante",
+"idade": 29,
+"valor": 4.0
+},
+{
+"tm": 273438,
+"nome": "Danilo Barbosa",
+"posTM": "Volante",
+"idade": 30,
+"valor": 2.0
+},
+{
+"tm": 261988,
+"nome": "Filip Krovinovic",
+"posTM": "Volante",
+"idade": 31,
+"valor": 1.5
+},
+{
+"tm": 373174,
+"nome": "Dodi",
+"posTM": "Volante",
+"idade": 30,
+"valor": 0.5
+},
+{
+"tm": 1285798,
+"nome": "Tiago Augusto",
+"posTM": "Meia Central",
+"idade": 18,
+"valor": 0.5
+},
+{
+"tm": 1221317,
+"nome": "Riquelme",
+"posTM": "Meia Ofensivo",
+"idade": 20,
+"valor": 2.0
+},
+{
+"tm": 423604,
+"nome": "Francis Amuzu",
+"posTM": "Ponta-Esquerda",
+"idade": 27,
+"valor": 8.0
+},
+{
+"tm": 371256,
+"nome": "Tetê",
+"posTM": "Ponta-Direita",
+"idade": 26,
+"valor": 7.0
+},
+{
+"tm": 373170,
+"nome": "Cristian Pavón",
+"posTM": "Ponta-Direita",
+"idade": 30,
+"valor": 2.5
+},
+{
+"tm": 633428,
+"nome": "José Enamorado",
+"posTM": "Ponta-Direita",
+"idade": 27,
+"valor": 2.5
+},
+{
+"tm": 525287,
+"nome": "Carlos Vinícius",
+"posTM": "Centroavante",
+"idade": 31,
+"valor": 6.0
+},
+{
+"tm": 95732,
+"nome": "Martin Braithwaite",
+"posTM": "Centroavante",
+"idade": 35,
+"valor": 0.75
+}
+]
+},
+"6600": {
+"nome": "SC Internacional",
+"slug": "sc-internacional-porto-alegre",
+"jogadores": [
+{
+"tm": 1094530,
+"nome": "Kauan",
+"posTM": "Goleiro",
+"idade": 23,
+"valor": null
+},
+{
+"tm": 1116612,
+"nome": "Diego Esser",
+"posTM": "Goleiro",
+"idade": 21,
+"valor": null
+},
+{
+"tm": 834444,
+"nome": "Victor Gabriel",
+"posTM": "Zagueiro",
+"idade": 22,
+"valor": 4.0
+},
+{
+"tm": 468174,
+"nome": "Félix Torres",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 0.8
+},
+{
+"tm": 383638,
+"nome": "Juninho",
+"posTM": "Zagueiro",
+"idade": 31,
+"valor": 0.7
+},
+{
+"tm": 719635,
+"nome": "Alexandro Bernabei",
+"posTM": "Lateral Esq.",
+"idade": 26,
+"valor": 8.0
+},
+{
+"tm": 741021,
+"nome": "Matheus Bahia",
+"posTM": "Lateral Esq.",
+"idade": 27,
+"valor": 2.5
+},
+{
+"tm": 703322,
+"nome": "Bruno Gomes",
+"posTM": "Lateral Dir.",
+"idade": 25,
+"valor": 7.0
+},
+{
+"tm": 829378,
+"nome": "Braian Aguirre",
+"posTM": "Lateral Dir.",
+"idade": 26,
+"valor": 2.5
+},
+{
+"tm": 405768,
+"nome": "Ronaldo",
+"posTM": "Volante",
+"idade": 30,
+"valor": 2.0
+},
+{
+"tm": 294873,
+"nome": "Thiago Maia",
+"posTM": "Volante",
+"idade": 29,
+"valor": 2.0
+},
+{
+"tm": 534473,
+"nome": "Paulinho Paula",
+"posTM": "Meia Central",
+"idade": 29,
+"valor": 1.0
+},
+{
+"tm": 277335,
+"nome": "Bruno Henrique",
+"posTM": "Meia Central",
+"idade": 37,
+"valor": 0.3
+},
+{
+"tm": 251813,
+"nome": "Niclas Eliasson",
+"posTM": "Meia Direita",
+"idade": 30,
+"valor": 3.0
+},
+{
+"tm": 798114,
+"nome": "Calebe",
+"posTM": "Meia Ofensivo",
+"idade": 26,
+"valor": 1.5
+},
+{
+"tm": 1220010,
+"nome": "Yago Noal",
+"posTM": "Meia Ofensivo",
+"idade": 19,
+"valor": 0.5
+},
+{
+"tm": 572042,
+"nome": "Johan Carbonero",
+"posTM": "Ponta-Esquerda",
+"idade": 27,
+"valor": 7.0
+},
+{
+"tm": 371996,
+"nome": "Alerrandro",
+"posTM": "Centroavante",
+"idade": 26,
+"valor": 2.5
+},
+{
+"tm": 1355429,
+"nome": "Raykkonen",
+"posTM": "Centroavante",
+"idade": 18,
+"valor": 1.0
+}
+]
+},
+"2125": {
+"nome": "EC Vitória",
+"slug": "esporte-clube-vitoria",
+"jogadores": [
+{
+"tm": 645602,
+"nome": "Lucas Arcanjo",
+"posTM": "Goleiro",
+"idade": 28,
+"valor": 4.0
+},
+{
+"tm": 740272,
+"nome": "Fintelman",
+"posTM": "Goleiro",
+"idade": 25,
+"valor": 0.1
+},
+{
+"tm": 540963,
+"nome": "Yuri Sena",
+"posTM": "Goleiro",
+"idade": 25,
+"valor": null
+},
+{
+"tm": 646677,
+"nome": "Riccieli",
+"posTM": "Zagueiro",
+"idade": 28,
+"valor": 1.8
+},
+{
+"tm": 603122,
+"nome": "Cacá",
+"posTM": "Zagueiro",
+"idade": 27,
+"valor": 1.5
+},
+{
+"tm": 323850,
+"nome": "Zé Marcos",
+"posTM": "Zagueiro",
+"idade": 28,
+"valor": 1.0
+},
+{
+"tm": 262851,
+"nome": "Emanuel Brítez",
+"posTM": "Zagueiro",
+"idade": 34,
+"valor": 0.5
+},
+{
+"tm": 1223829,
+"nome": "Edenilson",
+"posTM": "Zagueiro",
+"idade": 21,
+"valor": 0.5
+},
+{
+"tm": 1316690,
+"nome": "Darlan",
+"posTM": "Zagueiro",
+"idade": 23,
+"valor": null
+},
+{
+"tm": 432166,
+"nome": "Luan Cândido",
+"posTM": "Lateral Esq.",
+"idade": 25,
+"valor": 3.0
+},
+{
+"tm": 613641,
+"nome": "Jamerson",
+"posTM": "Lateral Esq.",
+"idade": 28,
+"valor": 0.8
+},
+{
+"tm": 870778,
+"nome": "Mateus Silva",
+"posTM": "Lateral Dir.",
+"idade": 28,
+"valor": 0.8
+},
+{
+"tm": 323954,
+"nome": "Walace",
+"posTM": "Volante",
+"idade": 31,
+"valor": 2.0
+},
+{
+"tm": 468332,
+"nome": "Rúben Ismael",
+"posTM": "Volante",
+"idade": 27,
+"valor": 1.2
+},
+{
+"tm": 555310,
+"nome": "Caíque Gonçalves",
+"posTM": "Volante",
+"idade": 31,
+"valor": 0.5
+},
+{
+"tm": 825780,
+"nome": "Zé Vitor",
+"posTM": "Meia Central",
+"idade": 26,
+"valor": 0.75
+},
+{
+"tm": 365368,
+"nome": "Matheuzinho",
+"posTM": "Meia Ofensivo",
+"idade": 29,
+"valor": 3.0
+},
+{
+"tm": 348354,
+"nome": "Tomás Pochettino",
+"posTM": "Meia Ofensivo",
+"idade": 30,
+"valor": 2.5
+},
+{
+"tm": 360526,
+"nome": "Emmanuel Martínez",
+"posTM": "Meia Ofensivo",
+"idade": 32,
+"valor": 1.2
+},
+{
+"tm": 1225755,
+"nome": "Diego Tarzia",
+"posTM": "Ponta-Esquerda",
+"idade": 23,
+"valor": 2.5
+},
+{
+"tm": 1519143,
+"nome": "Anderson Pato",
+"posTM": "Ponta-Esquerda",
+"idade": 24,
+"valor": 0.25
+},
+{
+"tm": 515638,
+"nome": "Erick",
+"posTM": "Ponta-Direita",
+"idade": 28,
+"valor": 4.0
+},
+{
+"tm": 577407,
+"nome": "Ignacio Laquintana",
+"posTM": "Ponta-Direita",
+"idade": 27,
+"valor": 1.0
+},
+{
+"tm": 608943,
+"nome": "Lucas Silva",
+"posTM": "Ponta-Direita",
+"idade": 27,
+"valor": 0.7
+},
+{
+"tm": 74758,
+"nome": "Marinho",
+"posTM": "Ponta-Direita",
+"idade": 36,
+"valor": 0.2
+},
+{
+"tm": 76191,
+"nome": "Osvaldo",
+"posTM": "Ponta-Direita",
+"idade": 39,
+"valor": 0.075
+},
+{
+"tm": 404321,
+"nome": "Renato Kayzer",
+"posTM": "Centroavante",
+"idade": 30,
+"valor": 1.0
+},
+{
+"tm": 642589,
+"nome": "Fabri",
+"posTM": "Centroavante",
+"idade": 26,
+"valor": 0.9
+},
+{
+"tm": 979994,
+"nome": "Alex Bruno",
+"posTM": "Centroavante",
+"idade": 27,
+"valor": 0.3
+}
+]
+},
+"776": {
+"nome": "Coritiba FC",
+"slug": "coritiba-fc",
+"jogadores": [
+{
+"tm": 974488,
+"nome": "Pedro Morisco",
+"posTM": "Goleiro",
+"idade": 22,
+"valor": 9.0
+},
+{
+"tm": 841263,
+"nome": "Pedro Rangel",
+"posTM": "Goleiro",
+"idade": 26,
+"valor": 1.0
+},
+{
+"tm": 417084,
+"nome": "Keiller",
+"posTM": "Goleiro",
+"idade": 29,
+"valor": 0.5
+},
+{
+"tm": 1095547,
+"nome": "Benassi",
+"posTM": "Goleiro",
+"idade": 22,
+"valor": 0.05
+},
+{
+"tm": 593382,
+"nome": "Jacy",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 3.0
+},
+{
+"tm": 834443,
+"nome": "Tiago Cóser",
+"posTM": "Zagueiro",
+"idade": 22,
+"valor": 1.5
+},
+{
+"tm": 84695,
+"nome": "Maicon",
+"posTM": "Zagueiro",
+"idade": 38,
+"valor": 0.1
+},
+{
+"tm": 119434,
+"nome": "Rodrigo Moledo",
+"posTM": "Zagueiro",
+"idade": 38,
+"valor": 0.1
+},
+{
+"tm": 346922,
+"nome": "Thiago Santos",
+"posTM": "Zagueiro",
+"idade": 37,
+"valor": 0.1
+},
+{
+"tm": 587786,
+"nome": "Felipe Jonatan",
+"posTM": "Lateral Esq.",
+"idade": 28,
+"valor": 2.0
+},
+{
+"tm": 1014555,
+"nome": "Rodrigo Gelado",
+"posTM": "Lateral Esq.",
+"idade": 23,
+"valor": 0.3
+},
+{
+"tm": 538230,
+"nome": "Bruno Melo",
+"posTM": "Lateral Esq.",
+"idade": 33,
+"valor": 0.25
+},
+{
+"tm": 275381,
+"nome": "Fabricio Bustos",
+"posTM": "Lateral Dir.",
+"idade": 30,
+"valor": 1.8
+},
+{
+"tm": 1365159,
+"nome": "Lucas Taverna",
+"posTM": "Lateral Dir.",
+"idade": 19,
+"valor": 0.5
+},
+{
+"tm": 273442,
+"nome": "Tinga",
+"posTM": "Lateral Dir.",
+"idade": 33,
+"valor": 0.45
+},
+{
+"tm": 462070,
+"nome": "Nicolás Fonseca",
+"posTM": "Volante",
+"idade": 28,
+"valor": 3.0
+},
+{
+"tm": 1365157,
+"nome": "Tissi",
+"posTM": "Volante",
+"idade": 19,
+"valor": 0.6
+},
+{
+"tm": 530737,
+"nome": "Richard",
+"posTM": "Volante",
+"idade": 32,
+"valor": 0.5
+},
+{
+"tm": 876874,
+"nome": "Vini Paulista",
+"posTM": "Meia Central",
+"idade": 25,
+"valor": 0.4
+},
+{
+"tm": 840431,
+"nome": "Gustavo",
+"posTM": "Meia Ofensivo",
+"idade": 24,
+"valor": 0.5
+},
+{
+"tm": 72772,
+"nome": "Josué",
+"posTM": "Meia Ofensivo",
+"idade": 36,
+"valor": 0.35
+},
+{
+"tm": 895926,
+"nome": "Joaquín Lavega",
+"posTM": "Ponta-Esquerda",
+"idade": 21,
+"valor": 6.0
+},
+{
+"tm": 542598,
+"nome": "Breno Lopes",
+"posTM": "Ponta-Esquerda",
+"idade": 30,
+"valor": 3.0
+},
+{
+"tm": 598765,
+"nome": "Brian Ocampo",
+"posTM": "Ponta-Esquerda",
+"idade": 27,
+"valor": 1.0
+},
+{
+"tm": 704558,
+"nome": "Fabinho",
+"posTM": "Ponta-Direita",
+"idade": 26,
+"valor": 1.0
+},
+{
+"tm": 1089181,
+"nome": "Paulo Roberto",
+"posTM": "Centroavante",
+"idade": 21,
+"valor": 1.5
+},
+{
+"tm": 362844,
+"nome": "Pedro Rocha",
+"posTM": "Centroavante",
+"idade": 32,
+"valor": 1.5
+},
+{
+"tm": 985351,
+"nome": "Renato Marques",
+"posTM": "Centroavante",
+"idade": 22,
+"valor": 1.0
+},
+{
+"tm": 638262,
+"nome": "Rodrigo Rodrigues",
+"posTM": "Centroavante",
+"idade": 30,
+"valor": 0.5
+},
+{
+"tm": 1090820,
+"nome": "Éberth",
+"posTM": "Centroavante",
+"idade": 23,
+"valor": 0.25
+}
+]
+},
+"3876": {
+"nome": "Mirassol FC",
+"slug": "mirassol-futebol-clube-sp-",
+"jogadores": [
+{
+"tm": 269860,
+"nome": "Walter",
+"posTM": "Goleiro",
+"idade": 38,
+"valor": 0.15
+},
+{
+"tm": 277743,
+"nome": "Alex Muralha",
+"posTM": "Goleiro",
+"idade": 36,
+"valor": 0.075
+},
+{
+"tm": 258369,
+"nome": "Georgemy",
+"posTM": "Goleiro",
+"idade": 31,
+"valor": 0.05
+},
+{
+"tm": 143855,
+"nome": "Thomazella",
+"posTM": "Goleiro",
+"idade": 36,
+"valor": null
+},
+{
+"tm": 592340,
+"nome": "Willian Machado",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 2.0
+},
+{
+"tm": 626110,
+"nome": "João Victor",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 1.5
+},
+{
+"tm": 592373,
+"nome": "Lucas Oliveira",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 1.0
+},
+{
+"tm": 995883,
+"nome": "Gabriel",
+"posTM": "Zagueiro",
+"idade": 23,
+"valor": 0.7
+},
+{
+"tm": 234538,
+"nome": "Victor Luís",
+"posTM": "Lateral Esq.",
+"idade": 33,
+"valor": 0.3
+},
+{
+"tm": 688690,
+"nome": "Igor Formiga",
+"posTM": "Lateral Dir.",
+"idade": 27,
+"valor": 4.0
+},
+{
+"tm": 525510,
+"nome": "Elias",
+"posTM": "Lateral Dir.",
+"idade": 27,
+"valor": 0.55
+},
+{
+"tm": 276877,
+"nome": "Daniel Borges",
+"posTM": "Lateral Dir.",
+"idade": 33,
+"valor": 0.3
+},
+{
+"tm": 329843,
+"nome": "Neto Moura",
+"posTM": "Volante",
+"idade": 30,
+"valor": 1.8
+},
+{
+"tm": 742073,
+"nome": "Wallisson",
+"posTM": "Volante",
+"idade": 29,
+"valor": 0.9
+},
+{
+"tm": 520457,
+"nome": "Gustavo Cazonatti",
+"posTM": "Volante",
+"idade": 30,
+"valor": 0.45
+},
+{
+"tm": 808507,
+"nome": "Denilson",
+"posTM": "Meia Central",
+"idade": 25,
+"valor": 2.0
+},
+{
+"tm": 432157,
+"nome": "Japa",
+"posTM": "Meia Central",
+"idade": 22,
+"valor": 1.0
+},
+{
+"tm": 480274,
+"nome": "Shaylon",
+"posTM": "Meia Ofensivo",
+"idade": 29,
+"valor": 1.0
+},
+{
+"tm": 110078,
+"nome": "Eduardo",
+"posTM": "Meia Ofensivo",
+"idade": 37,
+"valor": 0.6
+},
+{
+"tm": 349166,
+"nome": "Chico Kim",
+"posTM": "Meia Ofensivo",
+"idade": 35,
+"valor": 0.15
+},
+{
+"tm": 480225,
+"nome": "Alesson",
+"posTM": "Ponta-Esquerda",
+"idade": 27,
+"valor": 2.5
+},
+{
+"tm": 442818,
+"nome": "Fernandinho",
+"posTM": "Ponta-Esquerda",
+"idade": 29,
+"valor": 0.6
+},
+{
+"tm": 636314,
+"nome": "Gustavo Silva",
+"posTM": "Ponta-Direita",
+"idade": 29,
+"valor": 1.0
+},
+{
+"tm": 363794,
+"nome": "Carlos Eduardo",
+"posTM": "Ponta-Direita",
+"idade": 30,
+"valor": 0.5
+},
+{
+"tm": 837534,
+"nome": "Luiz Filipe",
+"posTM": "Ponta-Direita",
+"idade": 25,
+"valor": 0.1
+},
+{
+"tm": 794925,
+"nome": "Edson Carioca",
+"posTM": "Centroavante",
+"idade": 29,
+"valor": 1.5
+},
+{
+"tm": 305428,
+"nome": "Zé Roberto",
+"posTM": "Centroavante",
+"idade": 33,
+"valor": 0.3
+},
+{
+"tm": 871427,
+"nome": "Bruno Santos",
+"posTM": "Centroavante",
+"idade": 29,
+"valor": 0.2
+}
+]
+},
+"10997": {
+"nome": "Clube do Remo",
+"slug": "clube-do-remo-pa-",
+"jogadores": [
+{
+"tm": 364257,
+"nome": "Ivan",
+"posTM": "Goleiro",
+"idade": 29,
+"valor": 0.7
+},
+{
+"tm": 412610,
+"nome": "Marcelo Rangel",
+"posTM": "Goleiro",
+"idade": 38,
+"valor": 0.05
+},
+{
+"tm": 555201,
+"nome": "Ygor Vinhas",
+"posTM": "Goleiro",
+"idade": 32,
+"valor": 0.05
+},
+{
+"tm": 484848,
+"nome": "Zé Ivaldo",
+"posTM": "Zagueiro",
+"idade": 29,
+"valor": 1.5
+},
+{
+"tm": 490760,
+"nome": "Tchamba",
+"posTM": "Zagueiro",
+"idade": 28,
+"valor": 1.0
+},
+{
+"tm": 539135,
+"nome": "Léo Andrade",
+"posTM": "Zagueiro",
+"idade": 28,
+"valor": 0.35
+},
+{
+"tm": 358738,
+"nome": "Cristian Tassano",
+"posTM": "Zagueiro",
+"idade": 30,
+"valor": 0.35
+},
+{
+"tm": 443721,
+"nome": "Marlon",
+"posTM": "Lateral Esq.",
+"idade": 32,
+"valor": 0.3
+},
+{
+"tm": 1095628,
+"nome": "Edson Kauã",
+"posTM": "Lateral Esq.",
+"idade": 22,
+"valor": null
+},
+{
+"tm": 617687,
+"nome": "Matheus Alexandre",
+"posTM": "Lateral Dir.",
+"idade": 27,
+"valor": 0.7
+},
+{
+"tm": 681494,
+"nome": "Marcelinho",
+"posTM": "Lateral Dir.",
+"idade": 28,
+"valor": 0.6
+},
+{
+"tm": 663077,
+"nome": "Leonel Picco",
+"posTM": "Volante",
+"idade": 28,
+"valor": 2.5
+},
+{
+"tm": 323452,
+"nome": "Zé Welison",
+"posTM": "Volante",
+"idade": 31,
+"valor": 1.0
+},
+{
+"tm": 1091022,
+"nome": "David Braga",
+"posTM": "Volante",
+"idade": 24,
+"valor": 0.65
+},
+{
+"tm": 600549,
+"nome": "Zé Ricardo",
+"posTM": "Volante",
+"idade": 27,
+"valor": 0.5
+},
+{
+"tm": 686332,
+"nome": "Edson Fernando",
+"posTM": "Volante",
+"idade": 28,
+"valor": 0.4
+},
+{
+"tm": 333159,
+"nome": "Patrick",
+"posTM": "Meia Central",
+"idade": 34,
+"valor": 0.4
+},
+{
+"tm": 833886,
+"nome": "Franco Catarozzi",
+"posTM": "Meia Central",
+"idade": 26,
+"valor": 0.35
+},
+{
+"tm": 390368,
+"nome": "Vitor Bueno",
+"posTM": "Meia Ofensivo",
+"idade": 32,
+"valor": 1.0
+},
+{
+"tm": 726092,
+"nome": "Jajá",
+"posTM": "Ponta-Esquerda",
+"idade": 27,
+"valor": 1.5
+},
+{
+"tm": 653349,
+"nome": "Jáderson",
+"posTM": "Ponta-Esquerda",
+"idade": 26,
+"valor": 0.6
+},
+{
+"tm": 612479,
+"nome": "Alef Manga",
+"posTM": "Ponta-Esquerda",
+"idade": 31,
+"valor": 0.6
+},
+{
+"tm": 491599,
+"nome": "Antonio Galeano",
+"posTM": "Ponta-Direita",
+"idade": 26,
+"valor": 3.0
+},
+{
+"tm": 1095630,
+"nome": "Tico",
+"posTM": "Ponta-Direita",
+"idade": 20,
+"valor": null
+},
+{
+"tm": 738503,
+"nome": "Eduardo Melo",
+"posTM": "Centroavante",
+"idade": 25,
+"valor": 0.075
+}
+]
+}
+}
